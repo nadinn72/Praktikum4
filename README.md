@@ -1,5 +1,5 @@
 Soal :
-Buat program sederhana untuk menambahkan data kedalamsebuahlist dengan rincian sebagai berikut:
+Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut:
 • Progam meminta memasukkan data sebanyak-banyaknya(gunakanperulangan)
 • Tampilkan pertanyaan untuk menambah data (y/t?), apabilajawabant (Tidak), maka program akan menampilkan daftar datanya. 
 • Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%,uts: 35%, uas: 35%)
